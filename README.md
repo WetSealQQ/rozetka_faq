@@ -3,6 +3,7 @@
 
 
 - Активируем модуль!
+	![](/img/module_on.jpg "active module")
 - вводим предложенные данные ( Аккаунт нужен с правами администратора )
 
 
@@ -27,7 +28,7 @@
 сами атрибуты не обязательны
 атрибуты можно добавлять свои НО!! НЕ РЕКОМЕНДУЕТСЯ! МОЖНО вписывать свои заначения в полях где нет выбора
 
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+
 
 
 
